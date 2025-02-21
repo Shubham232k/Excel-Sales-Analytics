@@ -1,6 +1,6 @@
 # Excel-Sales-Analytics
 
-"Project objective:"
+**Project objective:**
 
 1. Create a customer performance report
 
@@ -13,3 +13,5 @@
 5. Create a New Product 2021 report
 
 6. Create a Top_5_countries_net_sale2021 report
+
+* **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
