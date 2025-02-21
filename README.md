@@ -1,6 +1,6 @@
 # Excel-Sales-Analytics
 
-Project objective:
+"Project objective:"
 
 1. Create a customer performance report
 
